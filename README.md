@@ -1,1 +1,1 @@
-# Pensamento-L-gico-com-Python---ADS
+# Pensamento-Logico-com-Python---ADS

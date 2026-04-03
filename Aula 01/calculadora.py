@@ -11,6 +11,8 @@ def multiplicação (a, b):
     produto = a * b
     return produto
 def divisão (a, b):
+    if b == 0:
+       return "\033[4mErro: Divisão por Zero!\033[0m"
     quociente = a / b
     return quociente
 

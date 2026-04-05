@@ -1,8 +1,7 @@
 #Calculadora IMC
-
-#inicio
+#Inicio
 print ("Calculador de Imc - índice de Massa Corporal")
-#EntradaI
+#Entrada
 peso = float(input("Digite o seu peso: (Ex:50.0)\n"))
 altura = float(input("Digite a sua altura em CM: (Ex: 170)\n"))
 #Ação
